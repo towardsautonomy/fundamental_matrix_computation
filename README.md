@@ -1,4 +1,4 @@
-# Fumdamental Matrix Computation from Point Correspondences
+# Fundamental Matrix Computation from Point Correspondences
 
 Estimating Fundamental Matrix from point-correspondence between two images is a key component to solving multi-view geometry problems. In multi-view geometry, point-projections in each camera plane are related by this 3x3 matrix - projection of a 3D point in one camera plane corresponds to a line (epipolar line) in other camera planes. It allows us to triangulate 3D points using multiple-views and subsequently determine the 3D geometry.
 
